@@ -7,4 +7,8 @@ Development environment for [MicOS](https://github.com/treelite/micos), includes
 * GUN binutils
 * node 6
 
-It's all you need to compile MicOS.
+## Pull
+
+```sh
+$ docker pull treelite/micos-dev-env
+```
